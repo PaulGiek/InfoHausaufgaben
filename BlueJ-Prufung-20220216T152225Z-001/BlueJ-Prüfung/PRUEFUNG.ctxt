@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PRUEFUNG
+comment1.params=
+comment1.target=PRUEFUNG()
+comment2.params=muendlicheNoteNeu
+comment2.target=void\ MuendlicheNoteSetzen(int)
+comment3.params=
+comment3.target=int\ MuendlicheNoteGeben()
+comment4.params=schriftlicheNoteNeu
+comment4.target=void\ schriftlicheNoteSetzen(int)
+comment5.params=
+comment5.target=int\ schriftlicheNoteGeben()
+comment6.params=nameNeu
+comment6.target=void\ NameSetzen(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ NameGeben()
+comment8.params=
+comment8.target=void\ DatenAusgeben()
+comment9.params=
+comment9.target=double\ GesamtNoteBerechnen()
+numComments=10
